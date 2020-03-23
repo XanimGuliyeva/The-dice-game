@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\Zer_oyunu\Zer_oyunu\bin\Debug\Zer_oyunu.exe.config
+C:\Users\ASUS\source\repos\Zer_oyunu\Zer_oyunu\bin\Debug\Zer_oyunu.exe
+C:\Users\ASUS\source\repos\Zer_oyunu\Zer_oyunu\bin\Debug\Zer_oyunu.pdb
+C:\Users\ASUS\source\repos\Zer_oyunu\Zer_oyunu\obj\Debug\Zer_oyunu.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Zer_oyunu\Zer_oyunu\obj\Debug\Zer_oyunu.Form1.resources
+C:\Users\ASUS\source\repos\Zer_oyunu\Zer_oyunu\obj\Debug\Zer_oyunu.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Zer_oyunu\Zer_oyunu\obj\Debug\Zer_oyunu.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Zer_oyunu\Zer_oyunu\obj\Debug\Zer_oyunu.exe
+C:\Users\ASUS\source\repos\Zer_oyunu\Zer_oyunu\obj\Debug\Zer_oyunu.pdb
